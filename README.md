@@ -1,8 +1,7 @@
 # 🧑‍💻 About me
-
     🔭 I’m currently working on a platform for musicians with a video call feature
     🌱 I’m currently learning more about React.js
-    ✨ I like learning new things
+    ✨ I like challenging myself
 # :toolbox: Languages and Tools:
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -18,7 +17,7 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
 # 📊 Some stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Applesad&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Applesad&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Applesad/Applesad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
