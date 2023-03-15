@@ -17,9 +17,8 @@
 ![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
-# 📊 Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=Applesad&theme=vue-dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Applesad&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊 Some stats
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Applesad&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--
 **Applesad/Applesad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
