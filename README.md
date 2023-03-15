@@ -19,7 +19,7 @@
 
 # 📊 Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=michalryn&theme=vue-dark&hide_border=false)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Applesad&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Applesad&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--
 **Applesad/Applesad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
